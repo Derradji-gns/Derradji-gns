@@ -17,7 +17,7 @@
 
 ## 📫 Certifications
 
-- Huawei Certified Clous Service Associate
+- Huawei Certified Cloud Service Associate
 - Huawei Certified Datacom Associate
 - Huawei Certified Cloud Developer Associate
 - Kubernetes and Cloud Native Essentiels
