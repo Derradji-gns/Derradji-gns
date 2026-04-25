@@ -23,7 +23,7 @@
 - Kubernetes and Cloud Native Essentiels
 
 ## 📊 GitHub Stats
-
+![Derradji-gns's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derradji-gns&show_icons=true&theme=radical)
 ![JavaScript](https://img.shields.io/badge/JS-yellow)
 ![React](https://img.shields.io/badge/React-blue)
 
