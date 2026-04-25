@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Derradji Amine Abdelbasset
 
-<!--
-**Derradji-gns/Derradji-gns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 ICT Student & Full Stack Developer
+- 💻 MERN track (MongoDB, Express.js, React.js, Node.js, Next.js)
+- ☁️ Certified Cloud and Datacom Associate
+- 🚀 Junior DevOps engineer
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- React / Next
+- Node.js / Express.js
+- Firebase / supabase
+- Docker / Kubernetes
+- Huawei VR
+- Huawei Cloud
+- 
+## 📫 Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Huawei Certified Clous Service Associate
+- Huawei Certified Datacom Associate
+- Huawei Certified Cloud Developer Associate
+- Kubernetes and Cloud Native Essentiels
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![JavaScript](https://img.shields.io/badge/JS-yellow)
+![React](https://img.shields.io/badge/React-blue)
+
+
+
+## 📫 Contact Me
